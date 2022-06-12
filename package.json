@@ -1,0 +1,14 @@
+{
+  "name": "insure_landing_page",
+  "version": "1.0.0",
+  "description": "Insure landing page",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch assets/scss -o assets/css"
+  },
+  "author": "Emma Forsberg",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
